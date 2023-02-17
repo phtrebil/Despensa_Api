@@ -4,17 +4,5 @@
     "nome":"Cebola",
     "quantidade":"2",
     "imagem":"https://maringa.cidadecancao.com/media/catalog/product/cache/1/image/855x635/9df78eab33525d08d6e5fb8d27136e95/c/e/cebola-kg-0000000028455.jpg"
-      },
-  {
-    "id":"2",
-    "nome":"Tomate",
-    "quantidade":"8",
-    "imagem":"https://scfoods.fbitsstatic.net/img/p/tomate-debora-maduro-para-molho-500g-70892/257510.jpg?w=800&h=800&v=no-change&qs=ignore"
-  },
-  {
-    "id":"3",
-    "nome":"Leite",
-    "quantidade":"6",
-    "imagem":"https://i1.wp.com/opresenterural.com.br/wp-content/uploads/2021/06/ABRALEITE-Leite.jpg?w=1400&ssl=1"
-  }
+      }
 ]
